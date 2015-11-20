@@ -1,0 +1,9 @@
+.text {
+  font: 10px sans-serif;
+}
+
+.node {
+  margin: 2px;
+  position: relative;
+  display: inline-block;
+}
